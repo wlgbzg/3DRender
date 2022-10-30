@@ -30,4 +30,4 @@
 2.  咨询电话: 18515850233
 
 #### 功能演示
-
+![index.png](https://github.com/wlgbzg/3DRender/blob/main/img/Screenshot_20220915_155015_com.hj.hjapp.jpg)
