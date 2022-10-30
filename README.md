@@ -30,7 +30,4 @@
 2.  咨询电话: 18515850233
 
 #### 功能演示
-![输入图片说明](img/Screenshot_20220915_155015_com.hj.hjapp.jpg)
-![输入图片说明](img/%E9%80%89%E6%8B%A9%E9%A3%8E%E6%A0%BC.png)
-![输入图片说明](img/Screenshot_20220919_184101_com.hj.hjapp.jpg)
-![输入图片说明](img/Screenshot_20220919_183543_com.hj.hjapp.jpg)
+
