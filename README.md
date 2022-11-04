@@ -30,5 +30,6 @@
 2.  咨询电话: 18515850233
 
 #### 功能演示
-![](img/Screenshot_20220915_155015_com.hj.hjapp.jpg)
-![编辑器功能截图](https://github.com/wlgbzg/3DRender/blob/main/img/00 - 副本.jpg)
+<p align="center">
+<img src="https://github.com/wlgbzg/3DRender/blob/main/img/editer.jpg"></img>
+</p>
