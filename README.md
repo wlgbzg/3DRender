@@ -15,7 +15,7 @@
 
 5. 全景图VR展示系统：自研基于three.js的全景图VR展示系统，支持多场景切换、背景音乐；
 
-官方网站：(https://www.huanjia3d.com)}
+官方网站：(https://www.huanjia3d.com)
 
 #### 承接业务
 
