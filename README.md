@@ -29,7 +29,8 @@
 1.  咨询v：wlgbzg
 2.  咨询电话: 18515850233
 
-#### 功能演示
+#### 编辑器功能演示
+编辑器支持H5 WEB APP内嵌 小程序
 <p align="center">
 <img src="https://github.com/wlgbzg/3DRender/blob/main/img/editer.jpg"></img>
 </p>
